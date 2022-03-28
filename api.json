@@ -32,7 +32,44 @@
     {
       "precio": 150,
       "id": 6,
-      "title": "Chela",
+      "title": "Tarta",
       "thumbnailUrl": "https://picsum.photos/id/50/600"
+    },    
+    {
+      "precio": 500,
+      "id": 7,
+      "title": "Fideos",
+      "thumbnailUrl": "https://picsum.photos/id/87/600"
+    },
+    {
+      "precio": 300,
+      "id": 8,
+      "title": "Empanadas",
+      "thumbnailUrl": "https://picsum.photos/id/131/600"
+    },
+    {
+      "precio": 100,
+      "id": 9,
+      "title": "Gaseosa",
+      "thumbnailUrl": "https://picsum.photos/id/111/600"
+    },
+    {
+      "precio": 15,
+      "id": 10,
+      "title": "Naranja",
+      "thumbnailUrl": "https://picsum.photos/id/11/600"
+    },
+    {
+      "precio": 102,
+      "id": 11,
+      "title": "Manzana",
+      "thumbnailUrl": "https://picsum.photos/id/42/600"
+    },
+    {
+      "precio": 100,
+      "id": 12,
+      "title": "Pan",
+      "thumbnailUrl": "https://picsum.photos/id/66/600"
     }
+    
   ]
